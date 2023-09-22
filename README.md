@@ -1,2 +1,2 @@
-# Titanic_survival_classifier
+# Titanic survival classifier
 Titanic Survival Classifier Model
